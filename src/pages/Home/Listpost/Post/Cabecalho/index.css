@@ -1,0 +1,7 @@
+.cabecalho {
+  display: flex;
+  margin: 10px;
+}
+.texto {
+margin-left: 14px;
+}

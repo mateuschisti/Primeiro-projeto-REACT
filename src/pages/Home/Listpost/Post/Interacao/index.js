@@ -1,0 +1,1 @@
+export { Interacao } from './Interacao';
